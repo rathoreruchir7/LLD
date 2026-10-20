@@ -1,0 +1,25 @@
+{
+  "title": "Partition Equal Subset Sum",
+  "titleSlug": "partition-equal-subset-sum",
+  "frontendQuestionId": "416",
+  "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Knapsack Problem",
+    "0-1 Knapsack"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-11T20:02:03.632Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "EDITORIAL",
+  "helpLabel": "Used editorial",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-12T15:23:24.309Z"
+}

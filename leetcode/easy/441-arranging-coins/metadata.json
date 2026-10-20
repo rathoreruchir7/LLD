@@ -1,0 +1,23 @@
+{
+  "title": "Arranging Coins",
+  "titleSlug": "arranging-coins",
+  "frontendQuestionId": "441",
+  "leetcodeUrl": "https://leetcode.com/problems/arranging-coins/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Binary Search"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-12T15:51:23.404Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-12T15:52:52.862Z"
+}
